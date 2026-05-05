@@ -20,17 +20,17 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: voltage clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 3516264
-  numberOfFiles: 4
-  numberOfSubjects: 4
+  numberOfBytes: 8716064
+  numberOfFiles: 10
+  numberOfSubjects: 10
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
-  - ProcessingModule
   - VoltageClampSeries
+  - ProcessingModule
 citation: Clarke, Vernon (2026) Cholinergic interneuron control of intrastriatal GABAergic
   circuits targeting spiny projection neurons is disrupted in Parkinson's disease
   models (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001832/draft
