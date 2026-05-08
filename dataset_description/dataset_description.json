@@ -11,9 +11,6 @@
   "Acknowledgements": "Surmeier Lab, Northwestern University",
   "Funding": [],
   "HowToAcknowledge": "Please cite the associated manuscript and DANDI dandiset.",
-  "ReferencesAndLinks": [
-    "https://doi.org/10.1371/journal.pbio.3002483"
-  ],
   "MetadataGuide": {
     "FigureMappings": "Maps manuscript figure/source folders to uploaded DANDI NWB asset paths.",
     "FigureMetadata": "Contains the combined YAML metadata from the original per-figure folders.",
