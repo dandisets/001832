@@ -17,6 +17,9 @@ assetsSummary:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
   measurementTechnique:
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
@@ -26,8 +29,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: voltage clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 3367125360
-  numberOfFiles: 307
+  numberOfBytes: 3367245836
+  numberOfFiles: 308
   numberOfSubjects: 199
   schemaKey: AssetsSummary
   species:
