@@ -29,9 +29,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: voltage clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 3367245836
-  numberOfFiles: 308
-  numberOfSubjects: 199
+  numberOfBytes: 3956959936
+  numberOfFiles: 354
+  numberOfSubjects: 245
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -44,52 +44,292 @@ assetsSummary:
   - TwoPhotonSeries
   - ImagingPlane
   - VoltageClampSeries
-citation: Clarke, Vernon (2026) Cholinergic interneuron control of intrastriatal GABAergic
-  circuits targeting spiny projection neurons is disrupted in Parkinson's disease
-  models (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001832/draft
+citation: Clarke, Vernon R.J.; Belal, Marziyeh; Perez-Rosello, Tamara; Guven, Elif
+  B.; Kocaturk, Samet; Xie, Zhong; Ilijic, Ema; Tkatch, Tatiana; Li, Jay; Dauer, William;
+  Assous, Maxime; Tepper, James; Surmeier, D. James (2026) Cholinergic interneuron
+  control of GABAergic circuits targeting spiny projection neurons is disrupted in
+  parkinsonian models (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001832/draft
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/000e0be47
+    name: Department of Neuroscience, Feinberg School of Medicine, Northwestern University,
+      Chicago, IL USA
+    schemaKey: Affiliation
   email: vernon.clarke@northwestern.edu
+  identifier: 0000-0002-6154-6555
   includeInCitation: true
-  name: Clarke, Vernon
+  name: Clarke, Vernon R.J.
   roleName:
   - dcite:ContactPerson
+  - dcite:DataCurator
+  - dcite:DataCollector
+  - dcite:DataManager
+  - dcite:FormalAnalysis
+  - dcite:Investigation
+  - dcite:Methodology
+  - dcite:Researcher
+  - dcite:Software
   schemaKey: Person
+- email: marziyeh.belal@nih.gov
+  identifier: 0000-0001-8778-0617
+  includeInCitation: true
+  name: Belal, Marziyeh
+  roleName:
+  - dcite:Author
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/000e0be47
+    name: Department of Neuroscience, Feinberg School of Medicine, Northwestern University,
+      Chicago, IL USA
+    schemaKey: Affiliation
+  identifier: 0009-0007-8952-2276
+  includeInCitation: true
+  name: Perez-Rosello, Tamara
+  roleName:
+  - dcite:Author
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/05vt9qd57
+    name: 'Rutgers University Newark: Newark, NJ, US '
+    schemaKey: Affiliation
+  identifier: 0000-0002-9634-0485
+  includeInCitation: true
+  name: Guven, Elif B.
+  roleName:
+  - dcite:Author
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/03kk7td41
+    name: Cardiff University, Cardiff, Wales, GB
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Kocaturk, Samet
+  roleName:
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/000e0be47
+    name: Department of Neuroscience, Feinberg School of Medicine, Northwestern University,
+      Chicago, IL USA
+    schemaKey: Affiliation
+  identifier: 0000-0002-8348-4455
+  includeInCitation: true
+  name: Xie, Zhong
+  roleName:
+  - dcite:Author
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/000e0be47
+    name: Department of Neuroscience, Feinberg School of Medicine, Northwestern University,
+      Chicago, IL USA
+    schemaKey: Affiliation
+  identifier: 0000-0002-7112-4401
+  includeInCitation: true
+  name: Ilijic, Ema
+  roleName:
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/000e0be47
+    name: Department of Neuroscience, Feinberg School of Medicine, Northwestern University,
+      Chicago, IL USA
+    schemaKey: Affiliation
+  identifier: 0000-0001-6626-7435
+  includeInCitation: true
+  name: Tkatch, Tatiana
+  roleName:
+  - dcite:Author
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00jmfr291
+    name: Department of Internal Medicine, University of Michigan Medical School.
+      Ann Arbor, MI, USA
+    schemaKey: Affiliation
+  - name: Department of Internal Medicine, University of Michigan Medical School.
+      Ann Arbor, MI, USA
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Li, Jay
+  roleName:
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/05byvp690
+    name: 'University of Texas Southwestern Medical Center: Dallas, TX, US '
+    schemaKey: Affiliation
+  identifier: 0000-0003-1775-7504
+  includeInCitation: true
+  name: Dauer, William
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/03kk7td41
+    name: 'Cardiff University: Cardiff, Wales, GB '
+    schemaKey: Affiliation
+  identifier: 0000-0001-6039-816X
+  includeInCitation: true
+  name: Assous, Maxime
+  roleName:
+  - dcite:Author
+  - dcite:Supervision
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/05vt9qd57
+    name: 'Rutgers University Newark: Newark, NJ, US '
+    schemaKey: Affiliation
+  identifier: 0000-0002-8643-4082
+  includeInCitation: true
+  name: Tepper, James
+  roleName:
+  - dcite:Author
+  - dcite:Supervision
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/000e0be47
+    name: Department of Neuroscience, Feinberg School of Medicine, Northwestern University,
+      Chicago, IL USA
+    schemaKey: Affiliation
+  email: j-surmeier@northwestern.edu
+  identifier: 0000-0002-6376-5225
+  includeInCitation: true
+  name: Surmeier, D. James
+  roleName:
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:FundingAcquisition
+  - dcite:Investigation
+  - dcite:ProjectLeader
+  - dcite:ProjectManager
+  - dcite:Supervision
+  schemaKey: Person
+- awardNumber: R37NS034696
+  identifier: https://ror.org/01cwqze88
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.ninds.nih.gov;
+- awardNumber: ASAP020551
+  identifier: https://ror.org/03zj4c476
+  name: Aligning Science Across Parkinson's
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://parkinsonsroadmap.org
+- awardNumber: GR- 2021-2960
+  identifier: https://ror.org/05nzwyq50
+  name: Freedom Together Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.jpbfoundation.org
 dateCreated: '2026-05-05T20:49:41.643409+00:00'
-description: 'Cholinergic interneuron control of intrastriatal GABAergic circuits
-  targeting spiny projection neurons is disrupted in Parkinson’s disease models Belal,
-  M.1, Perez-Rosello, T.1, Guven E. B.4, Xie, Z.1, Li, J. 3, Dauer, W.2, Tkatch, T.1,
-  Assous, M.5, Tepper, J.M.4 , Clarke, V. R. J.1 , Surmeier, D. J.1Affiliation:1-Department
-  of Neuroscience, Feinberg School of Medicine, Northwestern University, Chicago,
-  IL USA2- Peter O’Donnell Jr. Brain Institute, Departments of Neurology and Neuroscience,
-  University of Texas Southwestern Medical Center, Dallas, TX, USA.3 - Department
-  of Internal Medicine, University of Michigan Medical School. Ann Arbor, MI, USA4-
-  Molecular and Behavioral Neuroscience, Rutgers University, Newark, NJ USA5 - School
-  of Biosciences, Cardiff University, Cardiff, UKParkinson’s disease (PD) is known
-  to alter the intrinsic properties of striatal cholinergic interneurons (ChIs). However,
-  how PD shapes ChI control of intrastriatal GABAergic circuits regulating principal
-  spiny projection neurons (SPNs) is unknown. To fill this gap, striatal circuits
-  in healthy and parkinsonian mice were interrogated. In ex vivo brain slices from
-  healthy mice, optogenetic stimulation of ChIs evoked GABAA receptor currents in
-  both indirect and direct pathway SPNs that were attributable to nicotinic acetylcholine
-  receptor (nAChR)-mediated activation of GABAergic interneurons. Simulations suggested
-  that this circuit exerts a state-dependent control of SPN dendritic integration
-  that was modulated by concomitant muscarinic receptor signaling. Surprisingly, in
-  mouse models of prodromal and parkinsonian states, the ability of ChIs to engage
-  this intrastriatal circuitry was disrupted because interneurons down-regulated nicotinic
-  AChRs. Taken together, these studies suggest that impaired ChI control of GABAergic
-  interneurons contribute to behavioral deficits in both prodromal and clinical PD
-  states. '
-ethicsApproval: []
+description: "This Dandiset contains all raw and primary-processed data underlying
+  the study 'Cholinergic interneuron control of intrastriatal GABAergic circuits targeting
+  spiny projection neurons is disrupted in Parkinson’s disease models'. Parkinson’s
+  disease (PD) is known to alter the intrinsic properties of striatal cholinergic
+  interneurons (ChIs). However, how PD shapes ChI control of intrastriatal GABAergic
+  circuits regulating principal spiny projection neurons (SPNs) is unknown. To fill
+  this gap, striatal circuits in healthy and parkinsonian mice were interrogated.
+  In ex vivo brain slices from healthy mice, optogenetic stimulation of ChIs evoked
+  GABAA receptor currents in both indirect and direct pathway SPNs that were attributable
+  to nicotinic acetylcholine receptor (nAChR)-mediated activation of GABAergic interneurons.
+  Simulations suggested that this circuit exerts a state-dependent control of SPN
+  dendritic integration that was modulated by concomitant muscarinic receptor signaling.
+  Surprisingly, in mouse models of prodromal and parkinsonian states, the ability
+  of ChIs to engage this intrastriatal circuitry was disrupted because interneurons
+  down-regulated nicotinic AChRs. Taken together, these studies suggest that impaired
+  ChI control of GABAergic interneurons contribute to behavioral deficits in both
+  prodromal and clinical PD states. "
+ethicsApproval:
+- contactPoint:
+    email: acuc@northwestern.edu
+    schemaKey: ContactPoint
+    url: https://iacuc.northwestern.edu/
+  identifier: IS00015064 (NIH/NINDS R37NS034696)
+  schemaKey: EthicsApproval
+- contactPoint:
+    email: acuc@northwestern.edu
+    schemaKey: ContactPoint
+    url: https://iacuc.northwestern.edu/
+  identifier: IS00019822 (Aligning Science Across Parkinson’s [ASAP] grant ASAP-020551)
+  schemaKey: EthicsApproval
+- contactPoint:
+    email: acuc@northwestern.edu
+    schemaKey: ContactPoint
+    url: https://iacuc.northwestern.edu/
+  identifier: IS00010979 (Freedom Together Foundation grant GR-2021-2960)
+  schemaKey: EthicsApproval
 id: DANDI:001832/draft
 identifier: DANDI:001832
+keywords:
+- Parkinson's disease
+- Striatum
+- indirect pathway medium spiny neuron
+- direct pathway medium spiny neuron
+- cholinergic interneuron
+- iGluR, ionotropic glutamate receptor
+- LTSI, low-threshold spike GABAergic interneuron
+- AChR, nicotinic acetylcholine receptor;
+- NGFI, neurogliaform interneuron
+- NMDAR, N-methyl-D-aspartate receptor
+- THI, tyrosine hydroxylase interneuron
+- GABAergic synaptic transmission
+- GABAergic extrasynaptic transmission
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001832/versions/draft/assets/
-name: Cholinergic interneuron control of intrastriatal GABAergic circuits targeting
-  spiny projection neurons is disrupted in Parkinson's disease models
-relatedResource: []
+name: Cholinergic interneuron control of GABAergic circuits targeting spiny projection
+  neurons is disrupted in parkinsonian models
+protocol:
+- https://www.protocols.io/view/unilateral-6-hydroxydopamine-lesion-mouse-model
+- https://www.protocols.io/view/mouse-stereotaxic-surgeries-for-intracranial-viral-81wgby191vpk/v1
+- https://www.protocols.io/view/perfusion-and-fixation-of-brain-tissue-for-fresh-f-bp2l6xpr1lqe/v1
+- https://www.protocols.io/view/ex-vivo-imaging-of-genetically-encoded-sensors-wit-n92ldry68g5b/v1
+- https://www.protocols.io/view/preparation-of-ex-vivo-brain-slices-for-physiology-dm6gp328jvzp/v2
+- https://www.protocols.io/view/ex-vivo-mouse-brain-patch-clamp-recordings-combine-rm7vzx1w2gx1/v2
+- https://www.protocols.io/view/v2-rnascope-14egn3odml5d/v1
+relatedResource:
+- identifier: https://github.com/vernonclarke/analysis_Belal2026
+  name: PYTHON and R Analysis code for manuscript entitled 'Cholinergic interneuron
+    control of intrastriatal GABAergic circuits targeting spiny projection neurons
+    is disrupted in Parkinson's disease models'
+  relation: dcite:Requires
+  repository: GitHub
+  resourceType: dcite:Software
+  schemaKey: Resource
+  url: https://github.com/vernonclarke/analysis_Belal2026
+- identifier: https://github.com/vernonclarke/msNEURON_Belal2026
+  name: Computational simulations using NEURON + PYTHON for manuscript entitled 'Cholinergic
+    interneuron control of intrastriatal GABAergic circuits targeting spiny projection
+    neurons is disrupted in Parkinson’s disease models'
+  relation: dcite:IsSupplementTo
+  resourceType: dcite:ComputationalNotebook
+  schemaKey: Resource
+  url: https://github.com/vernonclarke/msNEURON_Belal2026
+- identifier: https://doi.org/10.5281/zenodo.20029445
+  name: Datasets for Belal et al. 'Cholinergic interneuron control of intrastriatal
+    GABAergic circuits targeting spiny projection neurons is disrupted in Parkinson's
+    disease models'
+  relation: dcite:IsSupplementedBy
+  repository: Zenodo
+  resourceType: dcite:Dataset
+  schemaKey: Resource
+  url: https://zenodo.org/records/20029445
+- identifier: https://doi.org/10.5281/zenodo.20617251
+  name: Key Resource Table for Belal et al. 'Cholinergic interneuron control of intrastriatal
+    GABAergic circuits targeting spiny projection neurons is disrupted in Parkinson's
+    disease models'
+  relation: dcite:IsSupplementedBy
+  schemaKey: Resource
+  url: https://zenodo.org/records/20617251
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0

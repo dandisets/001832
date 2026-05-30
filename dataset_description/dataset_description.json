@@ -185,6 +185,188 @@
         "dandi_path": "sub-m26211007/sub-m26211007_ses-20260211T143558_icephys.nwb"
       }
     ],
+    "Figure S5": [
+      {
+        "original_path": "Figure S5/sub-megcell030723_001/sub-megcell030723_001_ses-20230307_icephys.nwb",
+        "dandi_path": "sub-megcell030723-001/sub-megcell030723-001_ses-20230307T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell030723_003/sub-megcell030723_003_ses-20230307_icephys.nwb",
+        "dandi_path": "sub-megcell030723-003/sub-megcell030723-003_ses-20230307T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell030723_008/sub-megcell030723_008_ses-20230307_icephys.nwb",
+        "dandi_path": "sub-megcell030723-008/sub-megcell030723-008_ses-20230307T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell030723_009/sub-megcell030723_009_ses-20230307_icephys.nwb",
+        "dandi_path": "sub-megcell030723-009/sub-megcell030723-009_ses-20230307T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell030723_013/sub-megcell030723_013_ses-20230307_icephys.nwb",
+        "dandi_path": "sub-megcell030723-013/sub-megcell030723-013_ses-20230307T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell030923_006/sub-megcell030923_006_ses-20230309_icephys.nwb",
+        "dandi_path": "sub-megcell030923-006/sub-megcell030923-006_ses-20230309T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell030923_007/sub-megcell030923_007_ses-20230309_icephys.nwb",
+        "dandi_path": "sub-megcell030923-007/sub-megcell030923-007_ses-20230309T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell030923_008/sub-megcell030923_008_ses-20230309_icephys.nwb",
+        "dandi_path": "sub-megcell030923-008/sub-megcell030923-008_ses-20230309T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell041223_003/sub-megcell041223_003_ses-20230412_icephys.nwb",
+        "dandi_path": "sub-megcell041223-003/sub-megcell041223-003_ses-20230412T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell041223_004/sub-megcell041223_004_ses-20230412_icephys.nwb",
+        "dandi_path": "sub-megcell041223-004/sub-megcell041223-004_ses-20230412T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell041823_002/sub-megcell041823_002_ses-20230418_icephys.nwb",
+        "dandi_path": "sub-megcell041823-002/sub-megcell041823-002_ses-20230418T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell041823_003/sub-megcell041823_003_ses-20230418_icephys.nwb",
+        "dandi_path": "sub-megcell041823-003/sub-megcell041823-003_ses-20230418T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell041823_005/sub-megcell041823_005_ses-20230418_icephys.nwb",
+        "dandi_path": "sub-megcell041823-005/sub-megcell041823-005_ses-20230418T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell050223_006/sub-megcell050223_006_ses-20230502_icephys.nwb",
+        "dandi_path": "sub-megcell050223-006/sub-megcell050223-006_ses-20230502T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell050223_007/sub-megcell050223_007_ses-20230502_icephys.nwb",
+        "dandi_path": "sub-megcell050223-007/sub-megcell050223-007_ses-20230502T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell122822_001/sub-megcell122822_001_ses-20221228_icephys.nwb",
+        "dandi_path": "sub-megcell122822-001/sub-megcell122822-001_ses-20221228T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell122822_002/sub-megcell122822_002_ses-20221228_icephys.nwb",
+        "dandi_path": "sub-megcell122822-002/sub-megcell122822-002_ses-20221228T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell122822_004/sub-megcell122822_004_ses-20221228_icephys.nwb",
+        "dandi_path": "sub-megcell122822-004/sub-megcell122822-004_ses-20221228T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_001/sub-megcell123022_001_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-001/sub-megcell123022-001_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_003/sub-megcell123022_003_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-003/sub-megcell123022-003_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_004/sub-megcell123022_004_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-004/sub-megcell123022-004_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_006/sub-megcell123022_006_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-006/sub-megcell123022-006_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_007/sub-megcell123022_007_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-007/sub-megcell123022-007_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_011/sub-megcell123022_011_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-011/sub-megcell123022-011_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_013/sub-megcell123022_013_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-013/sub-megcell123022-013_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_014/sub-megcell123022_014_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-014/sub-megcell123022-014_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-megcell123022_015/sub-megcell123022_015_ses-20221230_icephys.nwb",
+        "dandi_path": "sub-megcell123022-015/sub-megcell123022-015_ses-20221230T000000_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell010423_000/sub-mskcell010423_000_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell010423-000/sub-mskcell010423-000_ses-20260508T193303_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell010423_001/sub-mskcell010423_001_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell010423-001/sub-mskcell010423-001_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell010423_006/sub-mskcell010423_006_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell010423-006/sub-mskcell010423-006_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell010423_007/sub-mskcell010423_007_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell010423-007/sub-mskcell010423-007_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell010423_009/sub-mskcell010423_009_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell010423-009/sub-mskcell010423-009_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell122822_000/sub-mskcell122822_000_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell122822-000/sub-mskcell122822-000_ses-20260508T193303_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell122822_001/sub-mskcell122822_001_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell122822-001/sub-mskcell122822-001_ses-20260508T193303_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell122822_004/sub-mskcell122822_004_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell122822-004/sub-mskcell122822-004_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell122822_006/sub-mskcell122822_006_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell122822-006/sub-mskcell122822-006_ses-20260508T193303_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell122822_009/sub-mskcell122822_009_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell122822-009/sub-mskcell122822-009_ses-20260508T193303_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell122822_010/sub-mskcell122822_010_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell122822-010/sub-mskcell122822-010_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskcell122822_013/sub-mskcell122822_013_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskcell122822-013/sub-mskcell122822-013_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskd221230_004/sub-mskd221230_004_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskd221230-004/sub-mskd221230-004_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskd221230_005/sub-mskd221230_005_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskd221230-005/sub-mskd221230-005_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskd221230_006/sub-mskd221230_006_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskd221230-006/sub-mskd221230-006_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskd221230_007/sub-mskd221230_007_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskd221230-007/sub-mskd221230-007_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskd221230_008/sub-mskd221230_008_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskd221230-008/sub-mskd221230-008_ses-20260508T193304_icephys.nwb"
+      },
+      {
+        "original_path": "Figure S5/sub-mskd221230_010/sub-mskd221230_010_ses-20260508_icephys.nwb",
+        "dandi_path": "sub-mskd221230-010/sub-mskd221230-010_ses-20260508T193304_icephys.nwb"
+      }
+    ],
     "Figure 7": [
       {
         "original_path": "Figure 7/sub-ctrl_animal01_slice01_roi01/sub-ctrl_animal01_slice01_roi01_ses-20250422T135800_run-054_ophys.nwb",
@@ -1520,6 +1702,177 @@
         ]
       }
     },
+    "Figure S5": {
+      "dandiset.yaml": {
+        "identifier": "DANDI:001832",
+        "version": "draft",
+        "name": "Cholinergic interneuron control of intrastriatal GABAergic circuits targeting spiny projection neurons is disrupted in Parkinson’s disease models",
+        "description": "Whole-cell voltage-clamp recordings from adult ChAT-ChR2-eYFP mice examining optogenetically evoked responses in striatal spiny projection neurons after unilateral 6-OHDA lesion of the substantia nigra pars compacta. ChR2-expressing cholinergic interneurons were stimulated with blue light while SPNs were recorded in acute coronal brain slices.\n",
+        "contributor": [
+          {
+            "name": "Kotakurk, Samet",
+            "role": [
+              "dcite:Author",
+              "dcite:DataCollector"
+            ],
+            "affiliation": "Cardiff University"
+          },
+          {
+            "name": "Güven, Elif, B.",
+            "role": [
+              "dcite:Author",
+              "dcite:DataCollector"
+            ],
+            "affiliation": "Rutgers University"
+          },
+          {
+            "name": "Assous, Maxime.",
+            "email": "AssousM@cardiff.ac.uk",
+            "role": [
+              "dcite:ContactPerson",
+              "dcite:Supervisor"
+            ],
+            "affiliation": "Cardiff University"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "keywords": [
+          "electrophysiology",
+          "patch clamp",
+          "whole-cell",
+          "voltage clamp",
+          "mouse",
+          "striatum",
+          "spiny projection neurons",
+          "SPN",
+          "cholinergic interneurons",
+          "CIN",
+          "ChAT",
+          "ChR2",
+          "eYFP",
+          "optogenetics",
+          "blue light stimulation",
+          "Parkinson disease",
+          "6-OHDA",
+          "dopamine lesion",
+          "substantia nigra pars compacta",
+          "SNc",
+          "Axograph X",
+          "MultiClamp 700B",
+          "ITC-1600",
+          "CsCl internal solution"
+        ],
+        "species": [
+          {
+            "name": "Mus musculus",
+            "identifier": "NCBITaxon:10090"
+          }
+        ],
+        "age": [
+          "adult"
+        ],
+        "genotype": [
+          "ChAT-ChR2-eYFP",
+          "Tg(Chat-COP4*H134R/eYFP, Slc18a3)6Gfng/J"
+        ],
+        "protocol": "Experiments were performed in adult ChAT-ChR2-eYFP mice (Tg(Chat-COP4*H134R/eYFP, Slc18a3)6Gfng/J). Unilateral dopamine lesions were induced by stereotaxic injection of 6-hydroxydopamine hydrobromide (6-OHDA) dissolved at 3.5 mg/mL in 0.1% ascorbic acid. Mice received unilateral injections into the substantia nigra pars compacta (SNc) at AP -2.7 mm, ML +1.35 mm, DV -4.2 mm from bregma using a Nanoject II Auto-Nanoliter Injector, delivering 1.3 uL total volume at 13.8 nL/5 s. The contralateral hemisphere received saline injections and served as control. Mice were anesthetized with ketamine (80 mg/kg) and xylazine (20 mg/kg), then transcardially perfused with ice-cold NMDG-based cutting solution.  Coronal brain sections were cut at 300 um using a VT1200S vibratome, incubated in oxygenated NMDG solution at 35 C for 5 min, and transferred  to oxygenated aCSF at room temperature until recording. During recordings, slices were perfused with oxygenated aCSF at 32-34 C at 2-4 mL/min.  SPNs were visualized with an Olympus BX50-WI microscope using a 40x water-immersion objective and infrared differential interference contrast  optics. Whole-cell voltage-clamp recordings were performed using borosilicate glass electrodes filled with CsCl-based internal solution. Signals were recorded using a MultiClamp 700B amplifier, digitized using an ITC-1600 digitizer, and acquired using Axograph X software. ChR2-expressing CINs were stimulated using 2 ms blue light pulses at 450 nm delivered every 30 s.\n",
+        "data_collection": [
+          {
+            "session_id": "ChAT_ChR2_6OHDA_SPN_voltage_clamp",
+            "session_description": "Whole-cell voltage-clamp recordings from striatal SPNs during optogenetic stimulation of ChR2-expressing cholinergic interneurons in adult ChAT-ChR2-eYFP mice with unilateral 6-OHDA lesions.\n",
+            "experiment_description": "ChR2-expressing cholinergic interneurons were activated with 2 ms, 450 nm blue light pulses delivered every 30 s while SPNs were recorded in voltage clamp. The contralateral saline-injected hemisphere served as control for the unilateral 6-OHDA-lesioned hemisphere.\n",
+            "experimenter": [
+              "Kotakurk",
+              "SametB"
+            ],
+            "institution": "Cardiff University",
+            "lab": "Assous lab",
+            "data_type": "intracellular_ephys",
+            "modality": "intracellular electrophysiology",
+            "subject": {
+              "species": "Mus musculus",
+              "age": "adult",
+              "genotype": "ChAT-ChR2-eYFP",
+              "strain": "Tg(Chat-COP4*H134R/eYFP, Slc18a3)6Gfng/J"
+            },
+            "lesion": {
+              "model": "unilateral dopamine lesion",
+              "agent": "6-hydroxydopamine hydrobromide",
+              "abbreviation": "6-OHDA",
+              "solvent": "0.1% ascorbic acid",
+              "concentration": "3.5 mg/mL",
+              "injection_site": "substantia nigra pars compacta",
+              "coordinates_from_bregma": {
+                "AP": "-2.7 mm",
+                "ML": "+1.35 mm",
+                "DV": "-4.2 mm"
+              },
+              "injector": "Nanoject II Auto-Nanoliter Injector",
+              "total_volume": "1.3 uL",
+              "injection_rate": "13.8 nL/5 s",
+              "control": "contralateral saline injection"
+            },
+            "anesthesia": {
+              "ketamine": "80 mg/kg",
+              "xylazine": "20 mg/kg"
+            },
+            "slice_preparation": {
+              "cutting_solution": "NMDG-based cutting solution",
+              "section_thickness": "300 um",
+              "vibratome": "VT1200S",
+              "incubation": "oxygenated NMDG solution at 35 C for 5 min",
+              "holding_solution": "oxygenated artificial cerebrospinal fluid at room temperature",
+              "recording_temperature": "32-34 C",
+              "perfusion_rate": "2-4 mL/min"
+            },
+            "recording": {
+              "cell_type": "striatal spiny projection neurons",
+              "configuration": "whole-cell voltage clamp",
+              "microscope": "Olympus BX50-WI",
+              "objective": "40x water-immersion",
+              "optics": "infrared differential interference contrast",
+              "electrode": "borosilicate glass electrode",
+              "electrode_resistance": "3-5 Mohm",
+              "internal_solution": "CsCl-based internal solution",
+              "internal_solution_components_mM": {
+                "CsCl": 125,
+                "EGTA": 0.1,
+                "HEPES": 10,
+                "MgCl2": 2,
+                "Na2ATP": 4,
+                "Na2GTP": 0.4
+              },
+              "internal_solution_additive": "biocytin",
+              "amplifier": "MultiClamp 700B",
+              "digitizer": "ITC-1600",
+              "acquisition_software": "Axograph X",
+              "sampling_rate": "20-40 kHz"
+            },
+            "optogenetics": {
+              "opsin": "ChR2",
+              "fluorophore": "eYFP",
+              "stimulated_cell_type": "cholinergic interneurons",
+              "stimulus": "blue light",
+              "wavelength": "450 nm",
+              "pulse_duration": "2 ms",
+              "inter_stimulus_interval": "30 s",
+              "light_source": "high-power LED system",
+              "device": "LZC-R0H1000000"
+            },
+            "acquisition_notes": [
+              "Axograph data were sampled at 20 kHz.",
+              "MATLAB data was acquired using CED Signal and sampled at 25 kHz.",
+              "Axograph data used an ITC-1600 digitizer, MultiClamp 700B amplifier, and Axograph acquisition software.",
+              "MATLAB files used a CED micro1401kii board, MultiClamp 700B amplifier, and Signal (CED) acquisition software.",
+              "No drugs were in the solution.",
+              "Gain 0.5 mV/pA.",
+              "All stimulations were performed at 1000 ms in the checked samples.",
+              "Holding potential was -70 mV with CsCl internal solution."
+            ]
+          }
+        ]
+      }
+    },
     "Figure 7": {
       "dandiset.yaml": {
         "identifier": "DANDI:001832",
@@ -1702,7 +2055,7 @@
     },
     "Figure 9": {
       "dandiset.yaml": {
-        "identifier": "DANDI:000XXX",
+        "identifier": "DANDI:001832",
         "version": "draft",
         "name": "Cholinergic interneuron synaptic transmission to striatal projection neurons in 6-OHDA Parkinson model",
         "description": "Whole-cell voltage clamp recordings examining cholinergic interneuron (ChI) synaptic transmission  to direct and indirect pathway striatal spiny projection neurons (SPNs) in 6-OHDA lesioned mice.  This dataset compares ChI-evoked postsynaptic currents (PSCs) in both dSPNs (expressing Drd1a-tdTomato)  and iSPNs (expressing Drd2-eGFP) between healthy control mice and mice with unilateral 6-OHDA  lesions of the medial forebrain bundle (MFB). Recordings were performed 4 weeks post-lesion at P80-90  using optogenetic stimulation of ChIs expressing Chronos. ChI-evoked responses were characterized  in control conditions and with pharmacological blockers (AP5+NBQX+CGP55845A to isolate cholinergic  components; GABAzine to assess GABAergic contributions; Mecamylamine to block nicotinic receptors;  Carbenoxolone to block gap junctions). This dataset examines how severe dopamine depletion affects  ChI-SPN synaptic transmission in both direct and indirect pathway neurons.\n",
@@ -2025,7 +2378,7 @@
           "dopamine depletion",
           "Parkinson disease model"
         ],
-        "protocol": "ChAT-Cre mice were sacrificed four weeks after unilateral 6-OHDA lesioning. Brain tissue was rapidly collected, embedded in OCT, flash frozen, and sectioned coronally at 12 um. RNAscope multiplex fluorescent in situ hybridization was performed on fresh frozen sections using the RNAscope Multiplex Fluorescent Detection Kit v2 with probes against CHRNB2, NDNF, and TH. Slides were mounted with DAPI-containing antifade medium and imaged on an Olympus FluoView FV10i confocal microscope. TH-positive and NDNF-positive cells in dorsal striatum were manually outlined as ROIs, and Chrnb2-positive puncta within each ROI were counted.\n",
+        "protocol": "ChAT-Cre mice were sacrificed four weeks after unilateral 6-OHDA lesioning.  Brain tissue was rapidly collected, embedded in OCT, flash frozen, and sectioned coronally at 12 um.  RNAscope multiplex fluorescent in situ hybridization was performed on fresh frozen sections using the  RNAscope Multiplex Fluorescent Detection Kit v2 with probes against CHRNB2, NDNF, and TH.  Slides were mounted with DAPI-containing antifade medium and imaged on an Olympus FluoView FV10i confocal microscope.  TH-positive and NDNF-positive interneurons in dorsal striatum were identified from their respective fluorescence  channels and manually outlined as cellular ROIs by the experimenter. Chrnb2-positive puncta were counted manually within each  ROI and recorded as replicate-level counts for each cell/ROI. Each count was linked to the corresponding imaging field,  hemisphere, condition, cell type, and session. The unlesioned hemisphere was labeled Intact and the 6-OHDA-lesioned  hemisphere was labeled Lesioned.\n",
         "relatedResource": [
           {
             "identifier": "10.17504/protocols.io.14egn3odml5d/v1",
