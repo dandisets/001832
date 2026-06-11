@@ -47,8 +47,9 @@ assetsSummary:
 citation: Clarke, Vernon R.J.; Belal, Marziyeh; Perez-Rosello, Tamara; Guven, Elif
   B.; Kocaturk, Samet; Xie, Zhong; Ilijic, Ema; Tkatch, Tatiana; Li, Jay; Dauer, William;
   Assous, Maxime; Tepper, James; Surmeier, D. James (2026) Cholinergic interneuron
-  control of GABAergic circuits targeting spiny projection neurons is disrupted in
-  parkinsonian models (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001832/draft
+  control of intrastriatal GABAergic circuits targeting spiny projection neurons is
+  disrupted in Parkinson's disease models (Version 0.260611.2102) [Data set]. DANDI
+  Archive. https://doi.org/10.48324/dandi.001832/0.260611.2102
 contributor:
 - affiliation:
   - identifier: https://ror.org/000e0be47
@@ -230,6 +231,7 @@ contributor:
   schemaKey: Organization
   url: https://www.jpbfoundation.org
 dateCreated: '2026-05-05T20:49:41.643409+00:00'
+datePublished: '2026-06-11T21:02:40.238822+00:00'
 description: "This Dandiset contains all raw and primary-processed data underlying
   the study 'Cholinergic interneuron control of intrastriatal GABAergic circuits targeting
   spiny projection neurons is disrupted in Parkinson’s disease models'. Parkinson’s
@@ -247,6 +249,7 @@ description: "This Dandiset contains all raw and primary-processed data underlyi
   down-regulated nicotinic AChRs. Taken together, these studies suggest that impaired
   ChI control of GABAergic interneurons contribute to behavioral deficits in both
   prodromal and clinical PD states. "
+doi: 10.48324/dandi.001832/0.260611.2102
 ethicsApproval:
 - contactPoint:
     email: acuc@northwestern.edu
@@ -266,7 +269,7 @@ ethicsApproval:
     url: https://iacuc.northwestern.edu/
   identifier: IS00010979 (Freedom Together Foundation grant GR-2021-2960)
   schemaKey: EthicsApproval
-id: DANDI:001832/draft
+id: DANDI:001832/0.260611.2102
 identifier: DANDI:001832
 keywords:
 - Parkinson's disease
@@ -285,9 +288,9 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001832/versions/draft/assets/
-name: Cholinergic interneuron control of GABAergic circuits targeting spiny projection
-  neurons is disrupted in parkinsonian models
+- https://dandiarchive.s3.amazonaws.com/dandisets/001832/0.260611.2102/assets.yaml
+name: Cholinergic interneuron control of intrastriatal GABAergic circuits targeting
+  spiny projection neurons is disrupted in Parkinson's disease models
 protocol:
 - https://www.protocols.io/view/unilateral-6-hydroxydopamine-lesion-mouse-model
 - https://www.protocols.io/view/mouse-stereotaxic-surgeries-for-intracranial-viral-81wgby191vpk/v1
@@ -296,6 +299,18 @@ protocol:
 - https://www.protocols.io/view/preparation-of-ex-vivo-brain-slices-for-physiology-dm6gp328jvzp/v2
 - https://www.protocols.io/view/ex-vivo-mouse-brain-patch-clamp-recordings-combine-rm7vzx1w2gx1/v2
 - https://www.protocols.io/view/v2-rnascope-14egn3odml5d/v1
+publishedBy:
+  endDate: '2026-06-11T21:02:40.238822+00:00'
+  id: urn:uuid:158b17b3-9a0f-4ba5-9c04-6cd1f2d5ac8a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-06-11T21:02:40.238822+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:36e2a32c-8b01-4e8d-902d-d5c4b6913be9
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://github.com/vernonclarke/analysis_Belal2026
   name: PYTHON and R Analysis code for manuscript entitled 'Cholinergic interneuron
@@ -333,6 +348,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/001832/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001832/0.260611.2102
+version: 0.260611.2102
 wasGeneratedBy: []
